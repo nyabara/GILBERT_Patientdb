@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ManagePatients
-    Created on : Jul 2, 2021, 3:28:39 PM
-    Author     : ayoma
---%>
+
 
 <%@page import="java.util.Calendar"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
