@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Register
-    Created on : Jun 24, 2021, 2:37:44 PM
-    Author     : ayoma
---%>
+
 <%@page import="java.util.Calendar"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
