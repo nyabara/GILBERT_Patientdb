@@ -1,8 +1,4 @@
-<%-- 
-    Document   : addPatient
-    Created on : Jun 30, 2021, 3:36:55 PM
-    Author     : ayoma
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
